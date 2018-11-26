@@ -1,4 +1,4 @@
-# Chat App Tutorial Using React.js Socket.io and Node.js
+# Chat App Using React.js Socket.io and Node.js
 
 ## Setup
 
